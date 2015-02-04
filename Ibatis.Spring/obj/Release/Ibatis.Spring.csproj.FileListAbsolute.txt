@@ -1,0 +1,9 @@
+E:\Code\vs2010\Ibatis.Spring\Ibatis.Spring\bin\Release\Ibatis.Spring.dll
+E:\Code\vs2010\Ibatis.Spring\Ibatis.Spring\bin\Release\Ibatis.Spring.pdb
+E:\Code\vs2010\Ibatis.Spring\Ibatis.Spring\bin\Release\Common.Logging.dll
+E:\Code\vs2010\Ibatis.Spring\Ibatis.Spring\bin\Release\IBatisNet.Common.dll
+E:\Code\vs2010\Ibatis.Spring\Ibatis.Spring\bin\Release\IBatisNet.DataMapper.dll
+E:\Code\vs2010\Ibatis.Spring\Ibatis.Spring\bin\Release\Spring.Core.dll
+E:\Code\vs2010\Ibatis.Spring\Ibatis.Spring\bin\Release\Spring.Data.dll
+E:\Code\vs2010\Ibatis.Spring\Ibatis.Spring\obj\Release\Ibatis.Spring.dll
+E:\Code\vs2010\Ibatis.Spring\Ibatis.Spring\obj\Release\Ibatis.Spring.pdb
